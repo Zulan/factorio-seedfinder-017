@@ -1,4 +1,4 @@
-resolution         = {x=3072,y=3072}
+resolution         = {x=1600,y=1600}
 zoom               = 0.15
 scan_chunks        = 8
 rocks_count_chunks = 5
