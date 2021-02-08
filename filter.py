@@ -39,7 +39,7 @@ class Filter:
 
 
 def main():
-    flt = Filter({'iron-ore': 8000, 'copper-ore': 6000})
+    flt = Filter({'iron-ore': 7000, 'copper-ore': 4500})
     for line in sys.stdin:
         flt(line)
 
