@@ -17,7 +17,7 @@ fi
 
 $F -c $DIR/config.ini                                              \
    --map-gen-settings $SETTINGS                                    \
-   --map-preview-size $((32 * 10 / 8))                             \
+   --map-preview-size $((32 * 8 / 8))                             \
    --map-preview-scale 8                                           \
    --generate-map-preview /dev/null/                               \
    --map-gen-seed $MIN --map-gen-seed-max $MAX                     \
